@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/meublog/static/css/main.2cce8147.chunk.css",
-    "main.js": "/meublog/static/js/main.12aa6a13.chunk.js",
-    "main.js.map": "/meublog/static/js/main.12aa6a13.chunk.js.map",
+    "main.css": "/meublog/static/css/main.1810b77e.chunk.css",
+    "main.js": "/meublog/static/js/main.60938ab5.chunk.js",
+    "main.js.map": "/meublog/static/js/main.60938ab5.chunk.js.map",
     "runtime~main.js": "/meublog/static/js/runtime~main.7ba74e45.js",
     "runtime~main.js.map": "/meublog/static/js/runtime~main.7ba74e45.js.map",
-    "static/js/2.b41502e9.chunk.js": "/meublog/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/meublog/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.9269ce5b.chunk.js": "/meublog/static/js/2.9269ce5b.chunk.js",
+    "static/js/2.9269ce5b.chunk.js.map": "/meublog/static/js/2.9269ce5b.chunk.js.map",
     "index.html": "/meublog/index.html",
-    "precache-manifest.f363cec081187160e477d0207534e7e7.js": "/meublog/precache-manifest.f363cec081187160e477d0207534e7e7.js",
+    "precache-manifest.70685dea8164a087be8fc3e964f1633f.js": "/meublog/precache-manifest.70685dea8164a087be8fc3e964f1633f.js",
     "service-worker.js": "/meublog/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/meublog/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/meublog/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1810b77e.chunk.css.map": "/meublog/static/css/main.1810b77e.chunk.css.map",
+    "static/media/comment.svg": "/meublog/static/media/comment.e2a49935.svg",
+    "static/media/like.svg": "/meublog/static/media/like.00e13584.svg",
+    "static/media/logo.svg": "/meublog/static/media/logo.b0d08409.svg",
+    "static/media/more.svg": "/meublog/static/media/more.22d960a9.svg",
+    "static/media/send.svg": "/meublog/static/media/send.55e74cfd.svg"
   }
 }
