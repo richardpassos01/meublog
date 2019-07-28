@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/meublog/static/css/main.f7f42b2d.chunk.css",
+    "main.css": "/meublog/static/css/main.3ba140a4.chunk.css",
     "main.js": "/meublog/static/js/main.246255ca.chunk.js",
     "main.js.map": "/meublog/static/js/main.246255ca.chunk.js.map",
     "runtime~main.js": "/meublog/static/js/runtime~main.7ba74e45.js",
@@ -8,9 +8,9 @@
     "static/js/2.36827b35.chunk.js": "/meublog/static/js/2.36827b35.chunk.js",
     "static/js/2.36827b35.chunk.js.map": "/meublog/static/js/2.36827b35.chunk.js.map",
     "index.html": "/meublog/index.html",
-    "precache-manifest.1afb2d5f12acb0b30913df1e8898f21b.js": "/meublog/precache-manifest.1afb2d5f12acb0b30913df1e8898f21b.js",
+    "precache-manifest.07add18f7ee59eecfa42b1266a648cab.js": "/meublog/precache-manifest.07add18f7ee59eecfa42b1266a648cab.js",
     "service-worker.js": "/meublog/service-worker.js",
-    "static/css/main.f7f42b2d.chunk.css.map": "/meublog/static/css/main.f7f42b2d.chunk.css.map",
+    "static/css/main.3ba140a4.chunk.css.map": "/meublog/static/css/main.3ba140a4.chunk.css.map",
     "static/media/logo.svg": "/meublog/static/media/logo.b0d08409.svg"
   }
 }
